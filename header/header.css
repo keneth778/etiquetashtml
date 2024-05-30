@@ -1,0 +1,22 @@
+header{
+    max-width: 375px;
+    display: grid;
+    grid-template-columns: 1fr 1fr  1fr;
+    grid-template-rows: 3rem 1fr 1fr 1rem;
+}
+.tituloh{
+    color:black;
+    grid-column: 1/2;
+    align-items: center;
+    grid-row: 1/1;
+}
+.btn{
+    color: white;
+    background-color: black;
+    border:3px solid blue ;
+    border-radius: 3rem;
+    grid-column: 3/3;
+    grid-row: 2/2;
+    text-align: center;
+}
+
