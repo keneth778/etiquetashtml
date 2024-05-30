@@ -2,7 +2,7 @@ let section3_DOM = document.querySelector(".section3");
 
 section3_DOM.innerHTML =`
 
-        <h1>Etiquetas de Formulario en HTML</h1>
+        <h2>Etiquetas de Formulario en HTML</h2>
     
         <table>
             <thead>
